@@ -1,0 +1,19 @@
+To compile server program 
+
+gcc –o server server2.c 
+
+To run the program 
+
+./server
+
+To compile  client program
+
+gcc –o client client2.c
+
+To run the program
+
+./client
+
+Note : Please always start the server code first and then the client.
+
+I have automated everything so all u need to do is run the program.
